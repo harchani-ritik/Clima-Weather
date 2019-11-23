@@ -1,6 +1,7 @@
 # Clima
 
-Clima is a simple weather app made using flutter. The app has been inspired from the Angela Yu Flutter course on udemy.
+Clima is a simple weather app made using flutter.
+-----------
 
 ![Flutter Android Virtual Device](screenshot1.png)
 
